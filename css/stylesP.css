@@ -1,0 +1,52 @@
+body{
+  font-family: 'Roboto',sans-serif;
+  color: #515052ff;
+  background: linear-gradient(141deg, #ffffff 0%, #d3d3d3 51%);
+}
+.pay{
+  margin: 30px 100px;
+}
+h1{
+  font-size: 7rem;
+  line-height: 1.5;
+  font-family: 'Lora', serif;
+  color: #020202ff;
+  text-align: center;
+}
+h2{
+  font-size: 4.5rem;
+  font-family: 'lora',serif;
+  color: #696969;
+  text-align: center;
+  padding: 3% 0;
+}
+h3{
+  text-align: center;
+}
+p{
+  line-height: 2rem;
+  font-size: 1.2rem;
+}
+.method{
+  font-size: 1.5rem;
+  padding: 4% 2%
+}
+form{
+  padding: 3% 0;
+}
+.wrapper {
+    text-align: center;
+}
+
+/* footer */
+#footer{
+  background-color: #f6f7ebff;
+  text-align: center;
+  font-size: 3rem;
+padding-top: 3%;
+padding-bottom: 1%;
+}
+.social-icon{
+  padding:20px 40px;
+  color: #020202ff;
+}
