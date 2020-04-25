@@ -29,6 +29,7 @@ h2{
 h3{
   font-size: 1.5rem;
   font-family:'Lora', serif;
+  color: #383738;
 }
 /* Events */
 #events{
@@ -49,8 +50,8 @@ h3{
 }
 
 .text{
-  font-size: 1.5rem;
-  line-height: 2rem;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
   padding-top: 4%;
 }
 
